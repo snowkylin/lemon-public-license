@@ -31,13 +31,10 @@ LPL (Lemon Public License) is a very relaxed software license to allow end users
 * A: Everyone can use the license. However, single programmers are preferred.
 
 * **Q: How to use the license?**
-* A: replace the "year" and "copyright holder" by current year and your own name, then paste it to the front of all your code that you want to use this license.
+* A: Replace the "year" and "copyright holder" by current year and your own name, then paste it to the front of all your code that you want to use this license.
 
 * **Q: What is a "mutual confirmation"?**
 * A: It means that both side acknowledge that the intimate relationship established. No explicit action, declaration or approval is needed.
-
-* **Q: What is the license of LPL itself?**
-* A: MIT License.
 
 ## Disclaimer
 
